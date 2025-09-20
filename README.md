@@ -1,2 +1,2 @@
 # GettingStartedwithNLP
-<img src="https://github.com/abyanrizz/GettingStartedwithNLP/edit/main/Cover.jpg" width="300" alt="Book Cover">
+<img src="https://github.com/abyanrizz/GettingStartedwithNLP/blob/main/Cover.jpg" width="300" alt="Book Cover">
